@@ -25,6 +25,7 @@ class MyApp extends StatelessWidget {
         title: 'data storage own',
         storage: Storage(),
       ),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
